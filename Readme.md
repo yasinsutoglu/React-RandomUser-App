@@ -29,18 +29,8 @@ SOLUTION
 │    ├── assets.js
 │    │     └── images
 │    ├── components
-│    │     ├── Header -->*Header.jsx , *Header.style.jsx
-│    │     ├── Card --> *Card.jsx , *Cards.jsx , *Card.style.jsx
-│    │     └── Navbar --> *Navbar.jsx , *Navbar.style.jsx
-│    ├── pages
-│    │     ├── Home--> *Home.jsx , *Home.style.jsx
-│    │     ├── About --> *About.jsx , *About.style.jsx
-│    │     ├── Login --> *Login.jsx , *Login.style.jsx
-│    │     ├── Register-->*Register.jsx , *Register.style.jsx
-│    │     ├── Details --> *Details.jsx , *Details.style.jsx
-│    │     └── Logo.js
-│    ├── router
-│    │     └── AppRouter.jsx │ PrivateRouter.jsx
+│    │     ├── Footer | Footer.js - Footer.css
+│    │     
 │    ├── App.js
 │    ├── App.css
 │    ├── index.js
