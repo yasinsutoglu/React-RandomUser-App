@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-RandomUser-App/static/css/main.78455214.chunk.css",
+    "main.js": "/React-RandomUser-App/static/js/main.f1b5adca.chunk.js",
+    "main.js.map": "/React-RandomUser-App/static/js/main.f1b5adca.chunk.js.map",
+    "runtime-main.js": "/React-RandomUser-App/static/js/runtime-main.62617ac7.js",
+    "runtime-main.js.map": "/React-RandomUser-App/static/js/runtime-main.62617ac7.js.map",
+    "static/js/2.a4fc8ff8.chunk.js": "/React-RandomUser-App/static/js/2.a4fc8ff8.chunk.js",
+    "static/js/2.a4fc8ff8.chunk.js.map": "/React-RandomUser-App/static/js/2.a4fc8ff8.chunk.js.map",
+    "index.html": "/React-RandomUser-App/index.html",
+    "static/css/main.78455214.chunk.css.map": "/React-RandomUser-App/static/css/main.78455214.chunk.css.map",
+    "static/js/2.a4fc8ff8.chunk.js.LICENSE.txt": "/React-RandomUser-App/static/js/2.a4fc8ff8.chunk.js.LICENSE.txt",
+    "static/media/cw.22310668.svg": "/React-RandomUser-App/static/media/cw.22310668.svg",
+    "static/media/design.9f215bce.svg": "/React-RandomUser-App/static/media/design.9f215bce.svg",
+    "static/media/growing-up-woman.a1585842.svg": "/React-RandomUser-App/static/media/growing-up-woman.a1585842.svg",
+    "static/media/mail.42e0750e.svg": "/React-RandomUser-App/static/media/mail.42e0750e.svg",
+    "static/media/map.8e5a2a58.svg": "/React-RandomUser-App/static/media/map.8e5a2a58.svg",
+    "static/media/padlock.8d2c33d2.svg": "/React-RandomUser-App/static/media/padlock.8d2c33d2.svg",
+    "static/media/phone.d017e1ae.svg": "/React-RandomUser-App/static/media/phone.d017e1ae.svg",
+    "static/media/woman.05242306.svg": "/React-RandomUser-App/static/media/woman.05242306.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62617ac7.js",
+    "static/js/2.a4fc8ff8.chunk.js",
+    "static/css/main.78455214.chunk.css",
+    "static/js/main.f1b5adca.chunk.js"
+  ]
+}
